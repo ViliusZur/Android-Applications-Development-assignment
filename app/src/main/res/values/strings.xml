@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Daily Finance</string>
+
+    <string-array name="candidateNames">
+        <item>Hillary Clinton</item>
+        <item>Bernie Sanders</item>
+        <item>Martin O\'Malley</item>
+        <item>Lincoln Chafee</item>
+        <item>Donald Trump</item>
+        <item>Ben Carson</item>
+        <item>Marco Rubio</item>
+        <item>Jeb Bush</item>
+    </string-array>
+
+</resources>
