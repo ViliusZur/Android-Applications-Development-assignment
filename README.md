@@ -1,6 +1,12 @@
-<h1>Daily Finance</h1>
+<h1>About the assigment</h1>
 
-This project is meant for those who like to keep track of their money and live on a tight budget.
+The purpose of this assignment was to analyse the Android platform components, their uses, and develop an Android application that can interact with web service APIs and built in device sensors. There was no predetermined purpose for the application, therefore we were free to develop our own ideas. The resulting application was developed in Android Studio and it helps to keep track of daily finances. The application is called "Daily Finance".
+
+<h1>Project details</h1>
+
+<h2>Daily Finance</h2>
+
+This project is meant for those people who like to keep track of their money and live on a tight budget.
 - Create a profile
 - Set your daily limit
 - Keep track of how much you spend daily
